@@ -83,7 +83,3 @@ A comprehensive weather application that provides real-time weather information 
 - 🌦️ [Weather API](https://openweathermap.org/api) - For providing the weather data.
 - 🎤 [Google Cloud Speech-to-Text API](https://cloud.google.com/speech-to-text) - For implementing voice search.
 - 📱 [Bootstrap](https://getbootstrap.com/) - For responsive UI design.
-
----
-
-Now the README has a bit more flair with the added emojis! You can further customize this as you like! 😊
